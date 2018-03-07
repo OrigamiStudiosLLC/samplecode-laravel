@@ -9,7 +9,6 @@ Origami CMS is accessible, yet powerful, providing tools needed for large, robus
 
 We would like to extend our thanks to the following sponsors for helping fund on-going Origami CMS development. If you are interested in becoming a sponsor, please visit the Origami CMS [Patreon page](http://crewlogix.com):
 
-- [Crewlogix](https://www.crewlogix.com)
 - [OrigamiStudios](https://origamistudios.us/)
 
 ## Contributing
