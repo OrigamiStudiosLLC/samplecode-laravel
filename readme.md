@@ -9,16 +9,12 @@ Origami CMS is accessible, yet powerful, providing tools needed for large, robus
 
 We would like to extend our thanks to the following sponsors for helping fund on-going Origami CMS development. If you are interested in becoming a sponsor, please visit the Origami CMS [Patreon page](http://crewlogix.com):
 
-- [Crewlogix](https://www.crewlogix.com)
 - [OrigamiStudios](https://origamistudios.us/)
 
 ## Contributing
 
 Thank you for considering contributing to the Origami CMS ! The contribution guide can be found in the [Laravel documentation](https://www.crewlogix.com).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Origami CMS, please send an e-mail to Taylor Otwell at muhamad.nadeem@crewlogix.com. All security vulnerabilities will be promptly addressed.
 
 ## License
 
